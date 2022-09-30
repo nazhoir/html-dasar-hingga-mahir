@@ -10,7 +10,6 @@ const config = {
   tagline: 'Belajar HTML dari dasar hingga mahir',
   url: 'https://html-dasar-hingga-mahir.netlify.app',
   baseUrl: '/',
-  onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.png',
 
@@ -18,10 +17,10 @@ const config = {
   organizationName: 'nazhoir', // Usually your GitHub org/user name.
   projectName: 'html', // Usually your repo name.
 
-  i18n: {
-    defaultLocale: 'en',
-    locales: ['en'],
-  },
+  // i18n: {
+  //   defaultLocale: 'en',
+  //   locales: ['en'],
+  // },
 
   presets: [
     [
@@ -29,7 +28,6 @@ const config = {
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
         docs: {
-         
           routeBasePath:"/",
           sidebarPath: require.resolve('./sidebars.js'),
           editUrl:
