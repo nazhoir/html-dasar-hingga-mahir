@@ -17,11 +17,11 @@ Proyek ini dibangun dengan menggunakan [Docusaurus 2](https://docusaurus.io/).
 
 Bisa terus dukung saya melalui :
 
-[<img src="/img/buymeecoffe.png" width="200"/>](https://www.buymeacoffee.com/nazhoir)
+[<img src="https://github.com/nazhoir/html-dasar-hingga-mahir/blob/master/static/img/buymeecoffe.png?raw=true" width="200"/>](https://www.buymeacoffee.com/nazhoir)
 &nbsp; &nbsp; &nbsp; 
-[<img src="/img/trakteer.png" width="200"/>](https://trakteer.id/nazhoir)
+[<img src="https://github.com/nazhoir/html-dasar-hingga-mahir/blob/master/static/img/trakteer.png?raw=true" width="200"/>](https://trakteer.id/nazhoir)
 &nbsp; &nbsp; &nbsp; 
-[<img src="/img/saweria.png" width="200"/>](https://saweria.com/nazhoir)
+[<img src="https://github.com/nazhoir/html-dasar-hingga-mahir/blob/master/static/img/saweria.png?raw=true" width="200"/>](https://saweria.com/nazhoir)
 
 
 
