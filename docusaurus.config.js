@@ -19,8 +19,8 @@ const config = {
   projectName: 'html', // Usually your repo name.
 
   i18n: {
-    defaultLocale: 'id',
-    locales: ['id'],
+    defaultLocale: 'en',
+    locales: ['en'],
   },
 
   presets: [
