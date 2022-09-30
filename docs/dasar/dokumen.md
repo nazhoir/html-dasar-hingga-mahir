@@ -4,24 +4,27 @@ sidebar_position: 4
 
 # Dokumen HTML
 
-## Dokumen HTML
+## Struktur Dokumen HTML
 
+Bagian pertama dari bab tentang  HTML Dasar ini kita akan mempelajari mengenai hal apa saja yang wajib ada di dalam struktur dokumen HTML. Yang kemudian dari struktur itu bisa menampilkan tulisan atau perintah yang kita inginkan di browser.
 
-Semua dokumen HTML harus dimulai dengan deklarasi tipe dokumen :`<!DOCTYPE html>`.
+Secara garis besar dokumen HTML dibagi menjadi dua bagian.
+1. Bagian Deklarasi dokumen HTML. Bagian ini berfungsi agar browser kita bisa mengidentifikasikan file atau dokumen apa yang akan dijalankan oleh browser. 
+2. Bagian yang body / tubuh yang mana dibagian inilah nantinya kita akan menampilakan sesuatu yang kita ingin kan.  
 
-Dokumen HTML itu sendiri dimulai dengan `<html>` dan di akhiri dengan `</html>`.
+Semua dokumen HTML harus dimulai dengan penulisan deklarasi tipe dokumen. Dokumen HTML diawali dengan penulisan **`<!DOCTYPE html>`**. Kemudian dokumen HTML dilanjutkan dengan menuliskan **`<html>`** setelah **`<!DOCTYPE html>`** dan harus di akhiri dengan penulisan **`</html>`**.
 
-Bagian yang bisa terlihat dari dokumen HTML adalah antara `<body>` dan `</body>`.
+Perlu diketahui tidak semua tulisan yang kamu tuliskan bisa muncul di browser, hanya bagian dari dokumen HTML adalah antara **`<body>`** dan **`</body>`** yang bisa terlihat ditampilan browser.
 
 #### Contoh
 
-```html
+```html title=index.html
 <!DOCTYPE html>
 <html>
 <body>
 
-<h1>My First Heading</h1>
-<p>My first paragraph.</p>
+<h1>Ini Judul Pada HTML</h1>
+<p>Ini merupakan paragraf</p>
 
 </body>
 </html>
@@ -43,6 +46,7 @@ Deklarasi `<!DOCTYPE>` untuk HTML5 adalah:
 
 
 ### Judul HTML
+
 Judul HTML didefinisikan dengan tag `<h1>` hingga `<h6>`.
 
 `<h1>` mendefinisikan heading yang paling penting. `<h6>` mendefinisikan heading yang paling tidak penting:

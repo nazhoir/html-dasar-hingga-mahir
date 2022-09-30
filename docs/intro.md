@@ -99,6 +99,13 @@ Tahun | Versi
 2017 |	Rekomendasi W3C: HTML5.1 edisi kedua
 2017 | Rekomendasi W3C 2017: HTML5.2
 
+
+:::note
+
+Tutorial ini mengikuti standar HTML5 terbaru.
+
+:::
+
 ## Kenapa Harus Belajar HTML
 
 ### Komunikasi bisnis yang lebih baik
@@ -138,9 +145,14 @@ Belajar HTML sangat mudah, yang kamu butuhkan hanya komputer dengan koneksi inte
 
 ## Referensi
  - [w3schools](https://www.w3schools.com/html/)
+&nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; 
+## Beri Dukungan
 
-:::note
 
-Tutorial ini mengikuti standar HTML5 terbaru.
 
-:::
+[<img src="/img/buymeecoffe.png" width="200"/>](https://www.buymeacoffee.com/nazhoir)
+&nbsp; &nbsp; &nbsp; 
+[<img src="/img/trakteer.png" width="200"/>](https://trakteer.id/nazhoir)
+&nbsp; &nbsp; &nbsp; 
+[<img src="/img/saweria.png" width="200"/>](https://saweria.com/nazhoir)
+

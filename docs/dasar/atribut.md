@@ -36,8 +36,8 @@ Ada dua cara untuk menentukan URL di atribut src:
 1. URL Absolut - Tautan ke gambar eksternal yang dihosting di situs web lain. Contoh: **`src="https://www.w3schools.com/images/img_girl.jpg"`**.
 
 
-:::catatan
-Catatan: Gambar eksternal mungkin berada di bawah hak cipta. Jika Anda tidak mendapatkan izin untuk menggunakannya, Anda mungkin melanggar undang-undang hak cipta. Selain itu, Anda tidak dapat mengontrol gambar eksternal; itu bisa tiba-tiba dihapus atau diubah.
+:::danger Perlu Diperhatikan 
+ Gambar eksternal mungkin berada di bawah hak cipta. Jika Anda tidak mendapatkan izin untuk menggunakannya, Anda mungkin melanggar undang-undang hak cipta. Selain itu, Anda tidak dapat mengontrol gambar eksternal; itu bisa tiba-tiba dihapus atau diubah.
 :::
 
 2. URL Relatif - Tautan ke gambar yang dihosting di dalam situs web. Di sini, URL tidak menyertakan nama domain. Jika URL dimulai tanpa garis miring, itu akan relatif terhadap halaman saat ini. Contoh: **`src="img_girl.jpg"`**. Jika URL dimulai dengan garis miring, itu akan menjadi relatif terhadap domain. Contoh: **`src="/images/img_girl.jpg"`**.
@@ -88,7 +88,7 @@ Atribut gaya digunakan untuk menambahkan gaya ke elemen, seperti warna, font, uk
 
 Anda akan mempelajari lebih lanjut tentang gaya di bab Gaya HTML kami.
 
-### Atribut lang
+### Atribut lang (bahasa)
 
 
 Anda harus selalu menyertakan atribut lang di dalam tag `<html>`, untuk mendeklarasikan bahasa halaman Web. Ini dimaksudkan untuk membantu mesin pencari dan browser.

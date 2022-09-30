@@ -11,16 +11,16 @@ const config = {
   url: 'https://html-dasar.athia.web.id//',
   baseUrl: '/',
   onBrokenMarkdownLinks: 'warn',
-  favicon: 'img/favicon.png',
+  favicon: 'img/favicon.ico',
 
  
   organizationName: 'html-dasar-hingga-mahir', // Usually your GitHub org/user name.
   projectName: 'html', // Usually your repo name.
 
-  // i18n: {
-  //   defaultLocale: 'en',
-  //   locales: ['en'],
-  // },
+  i18n: {
+    defaultLocale: 'en',
+    locales: ['en'],
+  },
 
   presets: [
     [
@@ -53,7 +53,6 @@ const config = {
         },
       },
       navbar: {
-        // title: 'Belajar HTML',
         logo: {
           alt: 'Logo',
           src: 'img/logo.png',
@@ -64,6 +63,21 @@ const config = {
           {
             href: 'https://github.com/nazhoir/html-dasar-hingga-mahir/',
             label: 'GitHub',
+            position: 'right',
+          },
+          {
+            href:'https://saweria.com/nazhoir',
+            label:'Saweria',
+            position:'right',
+          },
+          {
+            href: 'https://www.buymeacoffee.com/nazhoir',
+            label: 'Buy Me Coffe',
+            position: 'right',
+          },
+          {
+            href: 'https://www.buymeacoffee.com/nazhoir',
+            label: 'Trakteer',
             position: 'right',
           },
         ],
@@ -80,8 +94,23 @@ const config = {
               },
             ],
           },
-
-        
+          {
+            title:'Donasi',
+            items: [
+              {
+                href:'https://saweria.com/nazhoir',
+                label:'Saweria',
+              },
+              {
+                href: 'https://www.buymeacoffee.com/nazhoir',
+                label: 'Buy Me Coffe',
+              },
+              {
+                href: 'https://www.buymeacoffee.com/nazhoir',
+                label: 'Trakteer',
+              },
+            ]
+          },        
           {
             title: 'More',
             items: [
