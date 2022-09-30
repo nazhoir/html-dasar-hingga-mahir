@@ -1,41 +1,16 @@
-# Website
+# Tentang Proyek Ini
 
-This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
+Proyek ini merupakan penjelasan dan catatan [saya](https://github.com/nazhoir) tentang HTML. Meski begitu, tidak ada larangan untuk ikut serta berkontribusi dalam menyempurnakan proyek ini. Sampai saat ini tidak ada aturan dan batasan untuk ikut serta dalam berkontribusi.
 
-### Installation
 
-```
-$ yarn
-```
 
-### Local Development
 
-```
-$ yarn start
-```
 
-This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
+## Dibangun Dengan Menggunakan
 
-### Build
+Proyek ini dibangun dengan menggunakan [Docusaurus 2](https://docusaurus.io/).
 
-```
-$ yarn build
-```
 
-This command generates static content into the `build` directory and can be served using any static contents hosting service.
 
-### Deployment
 
-Using SSH:
-
-```
-$ USE_SSH=true yarn deploy
-```
-
-Not using SSH:
-
-```
-$ GIT_USER=<Your GitHub username> yarn deploy
-```
-
-If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
+**Lisensi MIT** Hak cipta 2022  [Nazhoir](https://github.com/nazhoir)
