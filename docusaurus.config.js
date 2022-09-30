@@ -14,7 +14,7 @@ const config = {
   favicon: 'img/favicon.png',
 
  
-  organizationName: 'nazhoir', // Usually your GitHub org/user name.
+  organizationName: 'html-dasar-hingga-mahir', // Usually your GitHub org/user name.
   projectName: 'html', // Usually your repo name.
 
   // i18n: {
@@ -31,7 +31,7 @@ const config = {
           routeBasePath:"/",
           sidebarPath: require.resolve('./sidebars.js'),
           editUrl:
-            'https://github.com/nazhoir/html/tree/master/',
+            'https://github.com/nazhoir/html-dasar-hingga-mahir/tree/master',
         },
 
         blog:false,
@@ -62,7 +62,7 @@ const config = {
         
         items: [
           {
-            href: 'https://github.com/nazhoir/html',
+            href: 'https://github.com/nazhoir/html-dasar-hingga-mahir/',
             label: 'GitHub',
             position: 'right',
           },
