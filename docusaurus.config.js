@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Belajar HTML',
   tagline: 'Belajar HTML dari dasar hingga mahir',
-  url: 'https://html-dasar-hingga-mahir.netlify.app',
+  url: 'https://html-dasar-hingga-mahir.netlify.app/',
   baseUrl: '/',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.png',
@@ -76,42 +76,26 @@ const config = {
             items: [
               {
                 label: 'HTML',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-              },
-              {
-                label: 'HTML',
-                to: '/docs/intro',
+                to: '/',
               },
             ],
           },
 
-          {
-            title: 'Community',
-            items: [
-              {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-              },
-              {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
-              },
-              {
-                label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
-              },
-            ],
-          },
+        
           {
             title: 'More',
             items: [
+              {
+                label: 'GitHub',
+                href: 'https://github.com/nazhoir/',
+              },
               {
                 label: 'Instagram',
                 href: 'https://instagram.com/nazhoir_/',
               },
               {
-                label: 'GitHub',
-                href: 'https://github.com/nazhoir/',
+                label: 'Twitter',
+                href: 'https://twitter.com/nazhoir',
               },
             ],
           },
