@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Belajar HTML',
   tagline: 'Belajar HTML dari dasar hingga mahir',
-  url: 'https://belajar-html-dasar-sampai-mahir.netlify.app',
+  url: 'https://html-dasar-hingga-mahir.netlify.app',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
